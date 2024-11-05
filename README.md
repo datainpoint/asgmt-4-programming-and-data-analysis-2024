@@ -6,7 +6,7 @@
 - Run `test-runner.py` to validate your functions.
 - Upload `asgmt.py` to [NTU COOL](https://cool.ntu.edu.tw).
 
-## 01. Define a class `Pet` which instantiates objects with 1 attribute `species` and 1 method `make_sound()`.
+## 01. Define a class `Pet` which instantiates objects with a attribute `species` and a method `make_sound()`.
 
 ```python
 class Pet:
@@ -45,7 +45,7 @@ class Hogwarts:
     ### END SOLUTION
 ```
 
-## 03. Define a class named `Gryffindor` which instantiates objects with 2 attributes `traits` and `colors`, 1 method `cast_a_spell()`.
+## 03. Define a class named `Gryffindor` which instantiates objects with 2 attributes `traits` and `colors`, a method `cast_a_spell()`.
 
 ```python
 class Gryffindor:
@@ -136,7 +136,7 @@ class SymbolicCalculator:
     ### END SOLUTION
 ```
 
-## 07. Define a class `Reversible` which instantiates objects with a `reverse()` that could take string, list, tuple, or dictionary as input.
+## 07. Define a class `Reversible` which instantiates objects with a `reverse()` method that could take string, list, tuple, or dictionary as input.
 
 ```python
 class Reversible:
@@ -159,7 +159,7 @@ class Reversible:
     ### END SOLUTION
 ```
 
-## 08. Define a class `SortList` which instantiates objects with two methods `sort_asc()` and `sort_desc()`.
+## 08. Define a class `SortList` which instantiates objects with 2 methods `sort_asc()` and `sort_desc()`.
 
 ```python
 class SortList:
@@ -200,7 +200,7 @@ class WeekBuilder:
     ### END SOLUTION
 ```
 
-## 10. Define a class `IsInstance` which instantiates objects with five methods `is_int()`, `is_float()`, `is_str()`, `is_bool()`, and `is_nonetype()`.
+## 10. Define a class `IsInstance` which instantiates objects with 5 methods `is_int()`, `is_float()`, `is_str()`, `is_bool()`, and `is_nonetype()`.
 
 ```python
 class IsInstance:
